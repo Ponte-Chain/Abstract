@@ -8,15 +8,16 @@
 
 <details>
   <summary>Ponte CloudChain Interface</summary>
-  <p>Comming soon</p>
+  <p></p>
 </details>
 <details>
   <summary>CCAS Protocol - Cloud-Chain Atomic Swaps</summary>
-  <p>Comming soon</p>
+  <p></p>
 </details>
 <details>
-  <summary>AiTeS Algorithim - AI Trust Escrol Engine API</summary>
-  <p>Comming soon</p>
+  <summary>AiTeeS Algorithim - AI Trust Escrol Engine API</summary>
+  <p style="font-size:12px:">Use AiTeeS Algorithim to trade a variety of items, such as goods, services and crypto assets, with confidence knowing that all transactions are safeguarded by digital escrow accounts and conditional wallets. With no need for intermediaries and completely secure, cryptographically-backed blockchain smart contracts, you can be sure of the validity and reliability of all agreements made.
+</p>
 </details>
          
 # Ponte CloudChain: AI Powered interoperability Platform that connects the crypto world.
