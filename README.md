@@ -52,4 +52,16 @@ As an innovative infrastructure that allows users to take advantage of its groun
 
  Another important goal for PONTES team is its pursuit integrate both EVM & Non EVM based platforms seamlessly into Payment Infrastructure & Decentralized Financing applications alike. As most DeFi protocols & payment solutions currently rely on Ethereum's Virtual Machine protocols in order maximize their capabilities ; integrating no-EVM based projects directly into applications can create new arenas into which entire economies can launch into while reducing complexity & price points associated with ETH based EVs./ 
  By leveraging cross chain technologies ,DeFi developers can now access vast numbers of potential consumer & user base composed entirely out Early Generation Blockchain projects ; thus expanding opportunities solidify existing customer bases while driving adoption faster than ever before . Such powerful combination opens exciting opportunities.
-...
+
+#
+
+## Self-Listing Platform
+
+It is inexpensive to register to be on the Ponte cloud chain: Low fees cost to apply for listing. All you have to do is set up a pair with PONTE tokens and provide liquidity and a treasury to back up our cloud transactions.
+
+
+
+
+
+
+
