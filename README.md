@@ -2,14 +2,16 @@
 <img width="100%" src="https://raw.githubusercontent.com/Ponte-Chain/assets/main/doc-head-large.png" />
 </span>
 
+#### Abstract:
 
-# Ponte CloudChain the AI Powered interoperability Platform that connects the crypto world.
+
+# Ponte CloudChain: AI Powered interoperability Platform that connects the crypto world.
 
 ## The future of the blockchain industry is an interlinking "Cloud" between all different chains. 
 
 ### With Ponte.cloud at the forefront, this vision could become a reality and promises to revolutionize the industry with its revolutionary AI powered cloud-chain approach. 
 
-PONTE represents a major leap forward in terms of interoperability between all existing blockchain platforms, no matter which platform they are or even if they are lacking the usual EVM (Ethereum Virtual Machine). This architecture will allow the interconnection of 1st Generation blockchains such as Ethereum Classic and Bitcoin, allowing to reduce costs and speed up transactions over this new infrastructure. 
+<b>PONTE</b> represents a major leap forward in terms of interoperability between all existing blockchain platforms, no matter which platform they are or even if they are lacking the usual EVM (Ethereum Virtual Machine). This architecture will allow the interconnection of 1st Generation blockchains such as Ethereum Classic and Bitcoin, allowing to reduce costs and speed up transactions over this new infrastructure. 
 
 With Ponte users will interact with their tokens in a much easier way from one blockchain to another, opting for an efficient and secure liquidation process that offers quick access to liquidity pools beyond their own chain centralization. Apart from being more centralized on each node within other networks than it would be on its native networks, PONTE also benefits from improved scalability due to its integration with other ERC-20 based blockchains that benefit from a significant technological advantage compared with their predecessors. 
 
@@ -28,7 +30,7 @@ Leveraging modern technologies such those found within Onte Cloud's cross chain 
 
 ### PONTE's Game-Changing Technology: AI Escrow Protocol – Leveraging All Chain Transactions for Receiving BTC in Seconds, Not Hours
 
-PONTE.CLOUD is an AI-powered cross chain protocol built on robust and secure blockchain technology. It provides users with a fast, secure, and cost-effective way to transfer assets across multiple blockchains. The AI powered escrow protocol provided by PONTE.CLOUD facilitates transactions, allowing users to instantly transfer their asset from one blockchain to another without the wait for confirmations. This revolutionary technology changes the current state of cryptocurrency transactions - no longer do users need long delays in order to move funds from one address to another. 
+PONTE.CLOUD is an AI-powered cross chain protocol built on robust and secure blockchain technology. It provides users with a fast, secure, and cost-effective way to transfer assets across multiple blockchains. <b>The AI powered escrow protocol</b> provided by PONTE.CLOUD facilitates transactions, allowing users to instantly transfer their asset from one blockchain to another without the wait for confirmations. This revolutionary technology changes the current state of cryptocurrency transactions - no longer do users need long delays in order to move funds from one address to another. 
 
 ### THE GAME CHANGING
 
