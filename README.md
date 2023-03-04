@@ -15,11 +15,14 @@
   <p></p>
 </details>
 <details>
-  <summary>AiTeeS Algorithim - AI Trust Escrol Engine API</summary>
-  <p style="font-size:12px:">The Aitees Algorithm provides counterparty protection in atomic swaps, allowing the transaction to be secured and confirmed immediately without risk of reversal. It also prevents frontrunning and initiates the transfer of funds to the counterparty before any required confirmations from the source blockchain are received.
+  <summary>AiTee Algorithim - AI Trust Escrol Engine API</summary>
+  <p style="font-size:12px:">
+   
+   The AiTee Algorithm provides counterparty protection in atomic swaps, allowing transactions to be secured and confirmed instantly without risk of reversal. In addition, it prevents frontrunning and initiates the transfer of funds to the counterparty before any required confirmations from the source blockchain are received. In this way, users can receive their funds within a minute instead of hours, as is common with Bitcoin transactions.
+   
+   The AI TRUST ESCROW ENGINE API can also be employed to trade goods, services and crypto assets securely via digital escrow accounts and conditional wallets, eliminating the need for intermediaries. All agreements are assured by cryptographically-backed blockchain smart contracts.
 
-You can also use the AI TRUST ESCROL ENGINE API, to trade a variety of items, such as goods, services and crypto assets, with confidence knowing that all transactions are safeguarded by digital escrow accounts and conditional wallets. With no need for intermediaries and completely secure, cryptographically-backed blockchain smart contracts, you can be sure of the validity and reliability of all agreements made. 
-</p>
+  </p>
 </details>
          
 # Ponte CloudChain: AI Powered interoperability Platform that connects the crypto world.
