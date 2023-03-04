@@ -18,7 +18,7 @@
   <summary>AiTee Algorithim - AI Trust Escrol Engine API</summary>
   <p style="font-size:12px:">
    
-   The AiTee Algorithm provides counterparty protection in atomic swaps, allowing transactions to be secured and confirmed instantly without risk of reversal. In addition, it prevents frontrunning and initiates the transfer of funds to the counterparty before any required confirmations from the source blockchain are received. In this way, users can receive their funds within a minute instead of hours, as is common with Bitcoin transactions.
+   The AiTee Algorithm provides counterparty protection in CCAS Protocol - Cloud-Chain Atomic Swaps, allowing transactions to be secured and confirmed instantly without risk of reversal. In addition, it prevents frontrunning and initiates the transfer of funds to the counterparty before any required confirmations from the source blockchain are received. In this way, users can receive their funds within a minute instead of hours, as is common with Bitcoin transactions.
    
    The AI TRUST ESCROW ENGINE API can also be employed to trade goods, services and crypto assets securely via digital escrow accounts and conditional wallets, eliminating the need for intermediaries. All agreements are assured by cryptographically-backed blockchain smart contracts.
 
