@@ -16,7 +16,9 @@
 </details>
 <details>
   <summary>AiTeeS Algorithim - AI Trust Escrol Engine API</summary>
-  <p style="font-size:12px:">Use AiTeeS Algorithim to trade a variety of items, such as goods, services and crypto assets, with confidence knowing that all transactions are safeguarded by digital escrow accounts and conditional wallets. With no need for intermediaries and completely secure, cryptographically-backed blockchain smart contracts, you can be sure of the validity and reliability of all agreements made.
+  <p style="font-size:12px:">The Aitees Algorithm provides counterparty protection in atomic swaps, allowing the transaction to be secured and confirmed immediately without risk of reversal. It also prevents frontrunning and initiates the transfer of funds to the counterparty before any required confirmations from the source blockchain are received.
+
+You can also use the AI TRUST ESCROL ENGINE API, to trade a variety of items, such as goods, services and crypto assets, with confidence knowing that all transactions are safeguarded by digital escrow accounts and conditional wallets. With no need for intermediaries and completely secure, cryptographically-backed blockchain smart contracts, you can be sure of the validity and reliability of all agreements made. 
 </p>
 </details>
          
